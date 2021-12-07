@@ -7,7 +7,7 @@ This is the face recognition system with Local Binary Pattern Histogram(LBPH).
 Firstly, for this project,opencv and numpy must be installed.
 
 
-##Dataset
+## Dataset
 
 I used my created own dataset with four different folders for different people that are used
 for the training process.
@@ -15,8 +15,9 @@ for the training process.
 
 ## Script Files used
 1.`face_train.py` is for the model `trainner.yml`.
+
 2.`face_detection.py` is for the output file to text the model `trainner.yml` and web cam
-is used for the test set.
+is used for the test.
 
 
 ## Results
